@@ -1428,7 +1428,7 @@ ul.flip-items {
     width: 225px !important;
 }
 .img-text h4 {
-    font-size: 1.5em;
+    font-size: 10px !important;
     color: #0cd0c0;
 }
 .news-grid {
